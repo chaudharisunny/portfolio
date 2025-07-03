@@ -34,7 +34,7 @@ const About = () => {
 
           {/* 📄 Resume Button */}
           <a
-            href="../assets/resume.pdf" // Put your resume file in the /public folder
+            href="https://www.canva.com/design/DAGi6gcdFzI/X45y9aFRTSLWYi_CEGcorw/edit?utm_content=DAGi6gcdFzI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" // Put your resume file in the /public folder
             download
             className="inline-block mt-6 bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition duration-300"
           >
