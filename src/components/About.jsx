@@ -10,7 +10,7 @@ const About = () => {
         {/* 👤 Profile Image (left side on large screens) */}
         <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-blue-600 shadow-md shrink-0">
           <img
-            src="https://avatars.githubusercontent.com/u/000000?v=4" // Replace with your photo
+            src="https://avatars.githubusercontent.com/chaudharisunny" // Replace with your photo
             alt="Sunny"
             className="w-full h-full object-cover"
           />
@@ -34,7 +34,7 @@ const About = () => {
 
           {/* 📄 Resume Button */}
           <a
-            href="/resume.pdf" // Put your resume file in the /public folder
+            href="../assets/resume.pdf" // Put your resume file in the /public folder
             download
             className="inline-block mt-6 bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition duration-300"
           >
